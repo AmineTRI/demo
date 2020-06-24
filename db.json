@@ -26,19 +26,5 @@
         "LastName": "Mohanty",
         "Gender": "Male",
         "Salary": 70000
-    },
-    {
-        "ID": 5,
-        "FirstName": "Shushanta",
-        "LastName": "Jena",
-        "Gender": "Male",
-        "Salary": 45000
-    },
-    {
-        "ID": 6,
-        "FirstName": "Koussay",
-        "LastName": "Heni",
-        "Gender": "Male",
-        "Salary": 100000
     }
 ]
