@@ -40,19 +40,5 @@
         "LastName": "Heni",
         "Gender": "Male",
         "Salary": 100000
-    },
-    {
-        "ID": 7,
-        "FirstName": null,
-        "LastName": null,
-        "Gender": null,
-        "Salary": null
-    },
-    {
-        "ID": 8,
-        "FirstName": null,
-        "LastName": null,
-        "Gender": null,
-        "Salary": null
     }
 ]
