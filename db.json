@@ -1,14 +1,58 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "ID": 1,
+        "FirstName": "Pranaya",
+        "LastName": "Rout",
+        "Gender": "Male",
+        "Salary": 60000
+    },
+    {
+        "ID": 2,
+        "FirstName": "Anurag",
+        "LastName": "Mohanty",
+        "Gender": "Male",
+        "Salary": 45000
+    },
+    {
+        "ID": 3,
+        "FirstName": "Preety",
+        "LastName": "Tiwari",
+        "Gender": "Female",
+        "Salary": 45000
+    },
+    {
+        "ID": 4,
+        "FirstName": "Sambit",
+        "LastName": "Mohanty",
+        "Gender": "Male",
+        "Salary": 70000
+    },
+    {
+        "ID": 5,
+        "FirstName": "Shushanta",
+        "LastName": "Jena",
+        "Gender": "Male",
+        "Salary": 45000
+    },
+    {
+        "ID": 6,
+        "FirstName": "Koussay",
+        "LastName": "Heni",
+        "Gender": "Male",
+        "Salary": 100000
+    },
+    {
+        "ID": 7,
+        "FirstName": null,
+        "LastName": null,
+        "Gender": null,
+        "Salary": null
+    },
+    {
+        "ID": 8,
+        "FirstName": null,
+        "LastName": null,
+        "Gender": null,
+        "Salary": null
+    }
+]
